@@ -24,8 +24,7 @@ body{
     border: 2px solid rgb(5, 5, 5);
     border-radius: 10px;
     text-align: center;
-    padding-top: 1em;
-   
+    padding-top: 1em;  
 }
 .my-container1 {
     position: relative;
@@ -42,7 +41,6 @@ body{
     border-radius: 10px;
     text-align: center;
     padding-top: 1.5em;
-   
 }
 .my-container3 {
     position: relative;
@@ -62,7 +60,7 @@ body{
     margin-top: 5em; 
 }
 .mycol1 {
-    height: 14.3vh;
+    height: 13.5vh;
     border: 2px solid rgb(5, 5, 5);
     border-radius: 10px;
     text-align: center;
